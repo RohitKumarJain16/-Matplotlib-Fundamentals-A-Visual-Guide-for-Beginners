@@ -16,15 +16,16 @@ Matplotlib is a cornerstone of Python’s data visualization ecosystem, often us
 🥧 Pie Charts – Present proportional data with labels, legends, percentages, and explode effects.
 
 🎯 Key Concepts Covered:
-Adding titles, axis labels, and grids
 
-Customizing markers, colors, and line styles
+• Adding titles, axis labels, and grids
 
-Creating subplots for side-by-side visual comparisons
+• Customizing markers, colors, and line styles
 
-Using alpha blending and colormaps for advanced scatter plots
+• Creating subplots for side-by-side visual comparisons
 
-Enhancing pie charts with shadows, legends, and start angles
+• Using alpha blending and colormaps for advanced scatter plots
+
+• Enhancing pie charts with shadows, legends, and start angles
 
 Every example is written in simple Python with inline comments, making it easy to understand even if you're just getting started with programming or data science.
 
