@@ -1,4 +1,4 @@
-# Matplotlib-Fundamentals-A-Visual-Guide-for-Beginners
+# 📊-Matplotlib-Fundamentals-A-Visual-Guide-for-Beginners
 
 Welcome to Matplotlib Fundamentals, a beginner-friendly repository designed to help you master the art of 2D data visualization using Python's powerful matplotlib.pyplot library. This repository contains a structured and practical introduction to creating static, interactive, and animated plots — perfect for students, data enthusiasts, and aspiring data scientists.
 
